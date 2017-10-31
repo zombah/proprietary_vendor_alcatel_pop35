@@ -176,7 +176,9 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
+    vendor/alcatel/pop35/proprietary/bin/powerup_reason:system/bin/powerup_reason \
     vendor/alcatel/pop35/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/alcatel/pop35/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/alcatel/pop35/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/alcatel/pop35/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/alcatel/pop35/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
@@ -219,6 +221,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libcalmodule_senodia.so:system/vendor/lib/libcalmodule_senodia.so \
+    vendor/alcatel/pop35/proprietary/bin/tctd:system/bin/tctd \
     vendor/alcatel/pop35/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/alcatel/pop35/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
