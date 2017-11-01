@@ -139,6 +139,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/alcatel/pop35/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/alcatel/pop35/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
+    vendor/alcatel/pop35/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/alcatel/pop35/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/alcatel/pop35/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
