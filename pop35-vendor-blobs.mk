@@ -65,7 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/alcatel/pop35/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/alcatel/pop35/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/alcatel/pop35/proprietary/lib/hw/camera.msm8909.so:system/lib/hw/camera.msm8909.so \
+    vendor/alcatel/pop35/proprietary/lib/hw/camera.vendor.msm8909.so:system/lib/hw/camera.vendor.msm8909.so \
     vendor/alcatel/pop35/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/alcatel/pop35/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/alcatel/pop35/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
