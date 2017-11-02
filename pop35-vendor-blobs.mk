@@ -70,6 +70,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/alcatel/pop35/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/alcatel/pop35/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/alcatel/pop35/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libactuator_dw9714_camcorder.so:system/vendor/lib/libactuator_dw9714_camcorder.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libactuator_dw9714_ov5670_csp_camcorder.so:system/vendor/lib/libactuator_dw9714_ov5670_csp_camcorder.so \
@@ -116,6 +117,8 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/alcatel/pop35/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
+    vendor/alcatel/pop35/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
     vendor/alcatel/pop35/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/alcatel/pop35/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/alcatel/pop35/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
