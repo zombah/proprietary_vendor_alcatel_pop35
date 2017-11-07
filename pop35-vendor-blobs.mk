@@ -179,7 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
-    vendor/alcatel/pop35/proprietary/bin/powerup_reason:system/bin/powerup_reason \
     vendor/alcatel/pop35/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/alcatel/pop35/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/alcatel/pop35/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
