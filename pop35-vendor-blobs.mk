@@ -1,4 +1,4 @@
-# Copyright (C) 2017 The CyanogenMod Project
+# Copyright (C) 2018 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -171,7 +171,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libOmxIttiamVdec.so:system/vendor/lib/libOmxIttiamVdec.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
-    vendor/alcatel/pop35/proprietary/bin/perfd:system/bin/perfd \
+    vendor/alcatel/pop35/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/alcatel/pop35/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/alcatel/pop35/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/alcatel/pop35/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
@@ -224,7 +224,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libcalmodule_senodia.so:system/vendor/lib/libcalmodule_senodia.so \
     vendor/alcatel/pop35/proprietary/bin/tctd:system/bin/tctd \
-    vendor/alcatel/pop35/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/alcatel/pop35/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/alcatel/pop35/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/alcatel/pop35/proprietary/bin/time_daemon:system/bin/time_daemon \
