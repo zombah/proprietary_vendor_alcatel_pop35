@@ -238,9 +238,9 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/alcatel/pop35/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/alcatel/pop35/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/alcatel/pop35/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/alcatel/pop35/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so
