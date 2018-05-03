@@ -136,6 +136,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/alcatel/pop35/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
+    vendor/alcatel/pop35/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
