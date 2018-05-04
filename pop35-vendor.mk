@@ -213,6 +213,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/pop35/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
+    vendor/alcatel/pop35/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/alcatel/pop35/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
